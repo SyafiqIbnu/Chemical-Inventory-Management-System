@@ -1,0 +1,5 @@
+.card-primary.card-outline-tabs>.card-header a.active {
+    border-top: 3px solid #007bff;
+    background-color: #5b7dc3;
+    color: white;
+}

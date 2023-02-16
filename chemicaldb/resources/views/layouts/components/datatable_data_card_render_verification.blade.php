@@ -1,0 +1,1 @@
+{data: 'verification',title: "{{__('general.verify')}}", orderable: false, searchable: false}

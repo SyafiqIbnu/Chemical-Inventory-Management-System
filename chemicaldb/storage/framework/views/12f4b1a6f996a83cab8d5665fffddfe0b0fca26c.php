@@ -1,0 +1,1 @@
+{data: 'verification',title: "<?php echo e(__('general.verify')); ?>", orderable: false, searchable: false}<?php /**PATH C:\wamp64\www\permitkhas\resources\views/layouts/components/datatable_data_card_render_verification.blade.php ENDPATH**/ ?>

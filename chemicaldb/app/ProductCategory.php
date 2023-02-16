@@ -1,0 +1,9 @@
+<?php
+namespace App;
+use Illuminate\Database\Eloquent\Model;
+class ProductCategory extends Model
+{
+	protected $table   = 'product_categories';
+	protected $guarded =['urlReturn'];
+    public $incrementing = false;
+}

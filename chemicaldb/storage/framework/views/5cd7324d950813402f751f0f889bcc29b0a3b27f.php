@@ -1,0 +1,1 @@
+<?php /**PATH D:\xampp\htdocs\chemicaldb\resources\views/generator/ui_None.blade.php ENDPATH**/ ?>

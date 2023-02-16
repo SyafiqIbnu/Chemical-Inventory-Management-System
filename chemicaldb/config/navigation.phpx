@@ -1,0 +1,19 @@
+<?php
+return [
+	[
+		'id'=>'mg_application',
+		'text'=>'Applications',
+		'link'=>'#',
+		'icon'=>'fa fa-rocket',
+		'bgColor'=>'',
+		'items'=>
+			[
+				'id'=>'',
+				'text'=>'',
+				'link'=>'',
+				'icon'=>'',
+				'bgColor'=>'',
+				'items'=>
+			]
+	]
+];

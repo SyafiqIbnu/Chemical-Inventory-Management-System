@@ -1,0 +1,83 @@
+[
+    {
+        "type": "Directory",
+        "name": "c:\\wamp64\\permitkhas\\app\\Http\\Controllers",
+        "parent_id": null,
+        "fsPath": "c:\\wamp64\\permitkhas\\app\\Http\\Controllers",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "OazwEkoUfrgStZdA"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\wamp64\\permitkhas\\resources\\views",
+        "parent_id": null,
+        "fsPath": "c:\\wamp64\\permitkhas\\resources\\views",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "FrADpnCbaqUvwPXQ"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\wamp64\\permitkhas\\resources\\lang\\en",
+        "parent_id": null,
+        "fsPath": "c:\\wamp64\\permitkhas\\resources\\lang\\en",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "CYsx5eJtX2yZNn0j"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\wamp64\\permitkhas\\routes\\ext.routes",
+        "parent_id": null,
+        "fsPath": "c:\\wamp64\\permitkhas\\routes\\ext.routes",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "NSeYJBit0dnygp4v"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\wamp64\\permitkhas\\resources\\views\\layouts",
+        "parent_id": null,
+        "fsPath": "c:\\wamp64\\permitkhas\\resources\\views\\layouts",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "1UYzyd9CDbwxgjuG"
+    },
+    {
+        "type": "File",
+        "name": "c:\\wamp64\\permitkhas\\resources\\lang\\en\\general.php",
+        "parent_id": null,
+        "fsPath": "c:\\wamp64\\permitkhas\\resources\\lang\\en\\general.php",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "j25namJHOG43q1ls"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\wamp64\\permitkhas\\app\\Helpers",
+        "parent_id": null,
+        "fsPath": "c:\\wamp64\\permitkhas\\app\\Helpers",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "IpZFKYsgPcyQSAhL"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\wamp64\\permitkhas\\resources\\views\\layouts\\components",
+        "parent_id": null,
+        "fsPath": "c:\\wamp64\\permitkhas\\resources\\views\\layouts\\components",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "QHUInot71x4LvYdE"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\wamp64\\permitkhas\\app\\Enums",
+        "parent_id": null,
+        "fsPath": "c:\\wamp64\\permitkhas\\app\\Enums",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "sD1agObqy85djwnQ"
+    }
+]

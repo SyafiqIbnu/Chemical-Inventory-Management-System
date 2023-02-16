@@ -1,0 +1,21 @@
+<?php
+return [
+    'product_type'=>'product_type',
+'product_type_placeholder'=>'product_type',
+'product_category'=>'product_category',
+'product_category_placeholder'=>'product_category',
+'name'=>'name',
+'name_placeholder'=>'name',
+'price'=>'price',
+'price_placeholder'=>'price',
+'description'=>'description',
+'description_placeholder'=>'description',
+'image'=>'image',
+'image_placeholder'=>'image',
+'image_path'=>'image_path',
+'image_path_placeholder'=>'image_path',
+'pax_no'=>'pax_no',
+'pax_no_placeholder'=>'pax_no',
+'has_condiments'=>'Ada Condiments',
+'food_group'=>'Kumpulan Makanan',
+];

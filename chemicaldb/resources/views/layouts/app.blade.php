@@ -1,0 +1,1 @@
+@extends((\Auth::guest()) ? 'layouts.app_guest' : 'layouts.app_auth')

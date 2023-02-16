@@ -1,0 +1,24 @@
+{
+    "decimal":        "",
+    "emptyTable":     "No data available in table",
+    "info":           "Papar _START_ ke _END_ daripada _TOTAL_ data",
+    "infoEmpty":      "Memaparkan 0 ke 0 dari 0 data",
+    "infoFiltered":   "(Ditapis dari _MAX_ keseluruhan data)",
+    "infoPostFix":    "",
+    "thousands":      ",",
+    "lengthMenu":     "Papar _MENU_ data",
+    "loadingRecords": "Sedang Memuatkan...",
+    "processing":     "Sedang Diproses...",
+    "search":         "Cari:",
+    "zeroRecords":    "Tiada rekod dijumpai",
+    "paginate": {
+        "first":      "Mula",
+        "last":       "Akhir",
+        "next":       "Berikut",
+        "previous":   "Sebelum"
+    },
+    "aria": {
+        "sortAscending":  ": aktifkan untuk menyusun data secara menaik",
+        "sortDescending": ": aktifkan untuk menyusun data secara menurun"
+    }
+}

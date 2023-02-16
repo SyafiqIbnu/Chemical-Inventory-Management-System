@@ -1,0 +1,1 @@
+<?php /**PATH D:\xampp\htdocs\zonkargo\resources\views/generator/ui_None.blade.php ENDPATH**/ ?>

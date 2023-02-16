@@ -1,0 +1,1 @@
+<?php /**PATH C:\wamp64\www\permitkhas\resources\views/generator/ui_None.blade.php ENDPATH**/ ?>

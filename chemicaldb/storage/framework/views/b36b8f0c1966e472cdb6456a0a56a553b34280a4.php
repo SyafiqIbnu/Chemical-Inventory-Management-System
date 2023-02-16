@@ -1,0 +1,2 @@
+
+<?php echo $__env->make((\Auth::guest()) ? 'layouts.app_guest' : 'layouts.app_auth', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH C:\wamp64\www\bizmillaagent\resources\views/layouts/app.blade.php ENDPATH**/ ?>

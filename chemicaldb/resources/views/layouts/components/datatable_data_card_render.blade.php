@@ -1,0 +1,1 @@
+{data: "{{$name}}", name: "{{$name}}", title: "{{$title}}", visible: true}       
